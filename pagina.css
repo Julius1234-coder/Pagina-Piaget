@@ -1,0 +1,39 @@
+#jumbo1{
+    background-color: rgb(206,16,41);
+    border-left: 20px solid grey;
+    
+}
+#jumbo2{
+    background-color: rgb(51,91,11);
+    border-left: 20px solid grey;
+}
+#jumbo3{
+    background-color: brown;
+    border-left: 20px solid gold;
+}
+#jumbo4{
+    background-color: rgb(51,91,11);
+    border-left: 20px solid grey;
+}
+#jumbo5{
+    background-color: rgb(51,91,11);
+    border-left: 20px solid grey;
+}
+body{
+    background-color: bisque;
+    
+}
+h1{
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.card{
+    background-color: rgb(0,153,153);
+    border-style: outset;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
